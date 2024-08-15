@@ -1,1 +1,1 @@
-This repository consist of the learnings of chapter 2 from the book "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow 2nd Edition Aurelien-Geron" 
+This is the model that predicts House price of California on the basis of 1990 census data of California
